@@ -126,3 +126,7 @@ open design/index.html            # macOS
 ```
 
 DOM・データ・レイアウトは共有のまま。**色と少しの光**だけで、驚きは十分に作れます。
+
+## License
+
+0BSD. You can use, copy, modify, and distribute this project for almost any purpose.
