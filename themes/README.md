@@ -1,3 +1,6 @@
+<!-- i18n: language-switcher -->
+[English](README.en.md) | [日本語](README.md)
+
 # Ayame — テーマ（JSON 定義）
 
 Ayame の見た目は **JSON で定義**します。ライト専用の iris 系プリセットを同梱し、

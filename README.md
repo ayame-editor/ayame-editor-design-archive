@@ -1,3 +1,6 @@
+<!-- i18n: language-switcher -->
+[English](README.en.md) | [日本語](README.md)
+
 # Ayame — デザイン案ギャラリー
 
 現行UIの外観リデザイン。狙いは **美しく・軽量・モダン・ハッカブル、そしてエンジニアがワクワクする**こと。
